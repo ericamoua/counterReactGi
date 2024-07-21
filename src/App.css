@@ -1,0 +1,28 @@
+.App {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background-color: #ba9a9a;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.counter-container {
+  background-color: #553434;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #5d1f1f;
+}
+
+button {
+  font-size: 1.2em;
+  padding: 10px
+}
